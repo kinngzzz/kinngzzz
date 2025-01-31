@@ -8,8 +8,9 @@
 
 # 🌐 Proyectos en los que trabajo
 
-lloreria.es - Un proyecto **personal** desarrollado principalmente en **JavaScript**. Porque a veces llorar también necesita un buen diseño.
-Soporte Carreraaa - Soy el encargado del alojamiento y programación del bot de soporte del Discord de Carreraaa.
+**lloreria.es** - Un proyecto **personal** desarrollado principalmente en **JavaScript**. Porque a veces llorar también necesita un buen diseño.
+
+**Soporte Carreraaa** - Soy el encargado del alojamiento y programación del bot de soporte del Discord de Carreraaa.
 
 # 📧 Contacto
 
