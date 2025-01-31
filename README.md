@@ -1,14 +1,15 @@
 # 👑 King
 
-¡Hola! Soy King, un programador de 20 años que hace cosas... **de vez en cuando**. Me apasiona crear proyectos, experimentar con código y aprender nuevas tecnologías.
+¡Hola! Soy King, un programador de 20 años que hace cosas... **de vez en cuando**.
 
 # 🚀 Sobre mí
 
 🖥️ Programador con conocimientos en **JavaScript**.
 
-# 🌐 Proyectos
+# 🌐 Proyectos en los que trabajo
 
-lloreria.es - Un proyecto **persona**l desarrollado principalmente en **JavaScript**. Porque a veces llorar también necesita un buen diseño.
+lloreria.es - Un proyecto **personal** desarrollado principalmente en **JavaScript**. Porque a veces llorar también necesita un buen diseño.
+Soporte Carreraaa - Soy el encargado del alojamiento y programación del bot de soporte del Discord de Carreraaa.
 
 # 📧 Contacto
 
