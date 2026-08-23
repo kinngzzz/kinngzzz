@@ -1,18 +1,47 @@
 # 👑 King
 
-¡Hola! Soy King, un programador de 20 años que hace cosas... **de vez en cuando**.
+¡Hola! Soy **Daniel**, aunque la mayoría me conoce como **King**.
 
-# 🚀 Sobre mí
+Me dedico al desarrollo de **bots**, **aplicaciones web** y a la **administración de servidores**, buscando que todo funcione de forma estable y eficiente.
 
-🖥️ Programador con conocimientos en **JavaScript**.
+## 🚀 Sobre mí
 
-# 🌐 Proyectos en los que trabajo
+* 🤖 Desarrollo, despliegue y mantenimiento de **bots de Discord**
+* 🌐 Desarrollo web con **Node.js** y **Express**
+* 🧩 Trabajo con arquitecturas orientadas a servicios
+* 🖥️ Hosting, administración y monitorización de **servidores**
+* 🇪🇸 España
 
-**lloreria.es** - Un proyecto **personal** desarrollado principalmente en **JavaScript**. Porque a veces llorar también necesita un buen diseño.
+## 🛠️ Tecnologías
 
-**Soporte Carreraaa** - Soy el encargado del alojamiento y programación del bot de soporte del Discord de Carreraaa.
+**JavaScript** · **Node.js** · **Express**
 
-# 📧 Contacto
+## 🌐 Proyectos
 
-✉️ Puedes encontrarme en mis redes sociales o enviarme un mensaje directamente.
+### 😭 Lloreria
 
+**Donde llorar es un arte.**
+
+Un foro para compartir esas cosas que te hacen llorar, desarrollado como proyecto personal.
+
+`lloreria.es`
+
+### ⛏️ Neocrafters
+
+Servidor de **Minecraft en español** desarrollado y administrado por nuestro equipo.
+
+Cuenta con modalidades **Survival** y **FFA**.
+
+`neocrafters.es`
+
+### 🤖 Soporte Carreraaa
+
+Bot de soporte para el servidor de Discord de **Carreraaa**.
+
+Me encargo de su **desarrollo, alojamiento y mantenimiento**.
+
+## 📫 Contacto
+
+Puedes encontrarme y conocer más sobre mis proyectos en:
+
+**kinng.es**
